@@ -176,6 +176,13 @@ nav .nav-links a:hover {
 	font-size: 55px;
 	font-weight: 800; 
 }
+
+@media screen and (max-width: 1245px) {
+  h1{
+    font-size: 35px !important;
+  } 
+}
+
 .play-btn{
 	width: 40px;
 	margin: 20px;
